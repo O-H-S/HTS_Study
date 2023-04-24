@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="0">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="816" startPos="1141" endPos="1141" selMode="0" offset="0" wrapCount="1" lang="Python" encoding="-1" userReadOnly="no" filename="C:\Users\OHS\Desktop\SystemTrading\Main\STWindow.py" backupFilePath="" originalFileLastModifTimestamp="649573275" originalFileLastModifTimestampHigh="30953761" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="1626" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="46" xOffset="0" scrollWidth="752" startPos="1536" endPos="1536" selMode="0" offset="0" wrapCount="1" lang="Python" encoding="-1" userReadOnly="no" filename="C:\Users\OHS\Desktop\SystemTrading\Main\TableWidgetWindow.py" backupFilePath="" originalFileLastModifTimestamp="649862500" originalFileLastModifTimestampHigh="30953761" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
