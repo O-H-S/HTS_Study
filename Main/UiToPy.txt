@@ -1,0 +1,5 @@
+아나콘다 프롬트 실행
+cd C:\Users\OHS\Desktop\SystemTrading\Main
+python -m PyQt5.uic.pyuic -x ItemListView.ui -o uiTest.py
+
+
